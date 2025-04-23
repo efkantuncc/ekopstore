@@ -1,0 +1,20 @@
+[
+  name : Ekop Test Uygulaması
+  logo : https://i.hizliresim.com/4ns95z6.jpg
+  photo1 : https://i.hizliresim.com/4ns95z6.jpg
+  photo2 : https://i.hizliresim.com/4ns95z6.jpg
+  photo3 : https://i.hizliresim.com/4ns95z6.jpg
+  mon : free
+  dowload : https://server11.dosya.co/cgi-bin/azcl9.cgi/32qvdtxq4pgvqnxwbpuugxzqekp6ahosaz4lo3yj2a/640xauto.jpg
+]
+
+[
+  name : Ekop Test Uygulaması
+  logo : https://i.hizliresim.com/6i2t7x2.jpg
+  photo1 : https://i.hizliresim.com/hw640x7.jpg
+  photo2 : https://i.hizliresim.com/4ns95z6.jpg
+  photo3 : https://i.hizliresim.com/4ns95z6.jpg
+  mon : p
+  lisans : ekopsi , si33 , tospik , t33mü
+  dowload : https://server11.dosya.co/cgi-bin/azcl9.cgi/32qvdtxq4pgvqnxwbpuugxzqekp6ahosaz4lo3yj2a/640xauto.jpg
+]
