@@ -9,11 +9,6 @@
 ]
 
 [
-  baslik : Tes3
-  message : test mesajı iste nörek la bu zaman da nörekkk
-]
-
-[
   baslik : Ester yamm
   message : test mesajı iste nörek la bu zaman da nörekkk
 ]
