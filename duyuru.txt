@@ -1,0 +1,14 @@
+[
+  baslik : Tes
+  message : test mesajı iste nörek la bu zaman da nörekkk
+]
+
+[
+  baslik : Tes2
+  message : test mesajı iste nörek la bu zaman da nörekkk
+]
+
+[
+  baslik : Tes3
+  message : test mesajı iste nörek la bu zaman da nörekkk
+]
